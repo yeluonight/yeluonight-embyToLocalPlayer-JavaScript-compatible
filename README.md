@@ -1,3 +1,8 @@
+
+# 适配了emby自身的JavaScript插件，windows使用Emby Theater可使用本修改版。
+使用方法：Emby Theater设置里找到“Custom Css and JavaScrip”，新建自定义JavaScript，粘贴embyToLocalPlayer.js里的代码，启用脚本，下载etlp-mpv-py-embed-win64文件夹，按原作者的使用方法运行即可。
+
+
 # etlp - embyToLocalPlayer
 
 etlp - Emby/Jellyfin 调用 PotPlayer mpv IINA MPC VLC 播放，并回传播放进度（可关）。适配 Plex。
