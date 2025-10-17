@@ -1,6 +1,7 @@
 
 # 适配了emby自身的JavaScript插件，windows使用Emby Theater可使用本修改版。
 使用方法：Emby Theater设置里找到“Custom Css and JavaScrip”，新建自定义JavaScript，粘贴embyToLocalPlayer.js里的代码，启用脚本，下载etlp-mpv-py-embed-win64文件夹，按原作者的使用方法运行即可。
+仅测试了调用MPV播放器和进度回传功能。
 
 
 # etlp - embyToLocalPlayer
